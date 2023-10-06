@@ -6,7 +6,7 @@ from email.mime.application import MIMEApplication
 
 fromaddr = "testgb113@mail.ru"
 toaddr = "testgb113@mail.ru"
-mypass = "LTkQAMzizYE4zHcYgpzh"
+mypass = "GB2023069b56e24"
 reportname = "log.txt"
 
 msg = MIMEMultipart()
